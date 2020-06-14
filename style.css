@@ -1,5 +1,7 @@
-p { color: red; }
-ul { color: pink; }
-h1 { color: blue; }
-em { color: red; }
-b { color: red; }
+
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: 'Helvetica', 'Arial', sans-serif
+}
+

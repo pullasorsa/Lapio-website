@@ -8,6 +8,12 @@
   background-color: red;
   float: left;
   margin-right: 40px;
+  border-style: solid;
+  border-color: green;
+  border-width: 8px;
+  width: 10vw;
+  height: 10vw;
+  text-align: center;
 }
 
 .container2 {
@@ -17,6 +23,12 @@
   float: left;
   overflow: hidden;
   margin-right: 40px;
+  border-style: solid;
+  border-color: red;
+  border-width: 8px;
+  width: 10vw;
+  height: 10vw;
+  text-align: center;
 }
 
 .container3 {
@@ -25,5 +37,14 @@
   background-color: green;
   float: left;
   overflow: hidden;
+  border-style: solid;
+  border-color: yellow;
+  border-width: 8px;
+  width: 10vw;
+  height: 10vw;
+  text-align: center;
 }
 
+p { 
+  color: blue;
+}
