@@ -1,0 +1,29 @@
+#wrapper {
+  overflow: hidden;
+}
+
+.container {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+  float: left;
+  margin-right: 40px;
+}
+
+.container2 {
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+  float: left;
+  overflow: hidden;
+  margin-right: 40px;
+}
+
+.container3 {
+  width: 200px;
+  height: 100px;
+  background-color: green;
+  float: left;
+  overflow: hidden;
+}
+
